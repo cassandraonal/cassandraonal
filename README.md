@@ -110,7 +110,5 @@ I’m an aspiring **Cybersecurity Professional** pursuing my A.A.S. Degree in Cy
 
 I’m always open to discussing projects, cybersecurity, or collaboration opportunities!  
 [Email Me](mailto:cassandrasbordoni5108@gmail.com) • [LinkedIn](https://linkedin.com/in/cassandra-sbordoni-01b184351/)
-
----![226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af](https://github.com/user-attachments/assets/586837c2-9144-47fd-822d-072ec5234573)
 ⭐️ _Thanks for visiting my GitHub profile!_![241763891-7bb1e704-6026-48f9-8435-2f4d40101348](https://github.com/user-attachments/assets/0774d965-8457-44b6-b506-cdf0622a4407)
 
