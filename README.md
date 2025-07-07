@@ -89,13 +89,11 @@ I’m an aspiring **Cybersecurity Professional** pursuing my A.A.S. Degree in Cy
 
 ---
 ## 💼 Leadership & Extracurriculars
-
+![221352975-94759904-aa4c-4032-a8ab-b546efb9c478](https://github.com/user-attachments/assets/9f29bf47-47c1-459e-8712-8d3729abc9b0)
 ### Flushing Tech Meetup at Queens College  
 *June 2025*  
 - Conducted penetration testing simulation using **Nmap** and **VirtualBox** to exploit open ports  
 - Collaborated and learned from peers while expanding my professional network  
-
-![Tech Nerd GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ## 💼 Work Experience
 
@@ -106,17 +104,6 @@ I’m an aspiring **Cybersecurity Professional** pursuing my A.A.S. Degree in Cy
 **Guest Service Agent** — WildPlay Elements Park (Apr 2023 – Nov 2023)  
 - Managed user credentials and event coordination.  
 - Ensured safety and compliance through access verification.
-
----
-
-## 🤝 Community Involvement
-![216655859-f66df97b-6767-4ab2-b6f4-a9cba3ff3591](https://github.com/user-attachments/assets/f7783171-faee-480e-88a0-111c10da890b)![216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f](https://github.com/user-attachments/assets/0a909f31-fbb4-49bb-ad80-2b2b74acaef5)
-
-
-**Flushing Tech Meetup @ Queens College**  
-- Simulated real-world pentesting using Nmap and VirtualBox.  
-- Learned from peers and expanded my professional network.
-
 ---
 ![214644145-264f4759-7633-441e-9d67-d8dda9d50d26](https://github.com/user-attachments/assets/8e14a44d-551a-47d2-a881-628517b67d39)
 ## 📫 Contact Me! 
