@@ -45,8 +45,6 @@ I’m an aspiring **Cybersecurity Professional** pursuing my A.A.S. Degree in Cy
 
 ## 🎮 Connect Four Game
 
-<img src="https://media.giphy.com/media/evxHdP3XLYOUEG8FCf/giphy.gif" width="350"/>
-
 - 🟡 **Connect Four Game** 
   [View Project](https://github.com/cassandraonal/Python2025/tree/main/Connect4Project/Connect4ProjectPartII_check_win)
   Console-based interactive 6x7 board game with player selection, chip dropping, input validation, and multi-directional win detection.  
