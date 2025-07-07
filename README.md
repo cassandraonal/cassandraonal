@@ -4,8 +4,7 @@
 
 [![Email](https://img.shields.io/badge/Email-cassandrasbordoni5108%40gmail.com-red?style=flat&logo=gmail)](mailto:cassandrasbordoni5108@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cassandra%20Sbordoni-blue?style=flat&logo=linkedin)](https://linkedin.com/in/cassandra-sbordoni-01b184351/)  
-[![GitHub](https://img.shields.io/badge/GitHub-cassandrasbordoni-black?style=flat&logo=github)](https://github.com/cassandraonal)  
-
+[![GitHub](https://img.shields.io/badge/GitHub-cassandraonal-black?style=for-the-badge&logo=github)](https://github.com/cassandraonal)
 ---
 
 ## 🎓 About Me
