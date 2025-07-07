@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Cassandra Sbordoni  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" alt="Kirby waving" />
-</p>
+![212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba](https://github.com/user-attachments/assets/06311b3f-2ac6-49b0-af96-fb9e67918868)
 
 [![Email](https://img.shields.io/badge/Email-cassandrasbordoni5108%40gmail.com-red?style=flat&logo=gmail)](mailto:cassandrasbordoni5108@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cassandra%20Sbordoni-blue?style=flat&logo=linkedin)](https://linkedin.com/in/cassandra-sbordoni-01b184351/)  
