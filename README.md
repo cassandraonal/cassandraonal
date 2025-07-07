@@ -23,21 +23,19 @@ I’m an aspiring **Cybersecurity Professional** pursuing my A.A.S. Degree in Cy
 |             | Penetration Testing   | Wireshark, Nmap        | Adaptability        |
 
 ---
+## Here are just some of projects I have done inside of my repositories:
 
 ## 🐍 Python Projects
 
 ![212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5](https://github.com/user-attachments/assets/52792c67-58ac-4abf-80f8-30c25ff30864)
 
 - 🔐 **Password Checker**
-    [View Project](https://github.com/cassandraonal/Python2025/tree/main/password_checker)
   Validates password strength using logic checks and input validation, providing real-time feedback.
 
 - 🎣 **Phishing Email Detector**
-    [View Project](https://github.com/cassandraonal/Python2025/tree/main/phishing_project)
   Analyzes emails for phishing keywords to identify suspicious messages and educate users on phishing tactics.
 
 - 📊 **Security Log File Analyzer**
-    [View Project](https://github.com/cassandraonal/Python2025/tree/main/FileAnalyzer_Project)
   Parses server logs to detect repeated failed login attempts and unauthorized access to restricted paths, generating security reports.
 
 ---
@@ -45,7 +43,6 @@ I’m an aspiring **Cybersecurity Professional** pursuing my A.A.S. Degree in Cy
 ## 🎮 Connect Four Game
 
 - 🟡 **Connect Four Game** 
-  [View Project](https://github.com/cassandraonal/Python2025/tree/main/Connect4Project/Connect4ProjectPartII_check_win)
   Console-based interactive 6x7 board game with player selection, chip dropping, input validation, and multi-directional win detection.  
   Includes real-time input handling, board visualization, and a check for horizontal, vertical, and diagonal wins.
 
@@ -54,11 +51,9 @@ I’m an aspiring **Cybersecurity Professional** pursuing my A.A.S. Degree in Cy
 ## 💻 C++ Projects
 
 - 🔄 **Nested Loops & Control Flow**
-  - 📄 [View lab8 project folder](https://github.com/cassandraraonal/Cplusplus/tree/main/lab8)
   Mastered nested loops, `continue` statements, 2D array patterns, and built a number guessing game with validation.
 
 - 💾 **Console I/O & File Handling**
-  - 📄 [View lab13 project folder](https://github.com/cassandraraonal/Cplusplus/tree/main/lab13)
   Developed robust input validation, file reading/writing/appending, pointers, references, array searching, and multidimensional grid visualization.
 
 ---
