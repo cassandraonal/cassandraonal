@@ -27,7 +27,7 @@ I’m an aspiring **Cybersecurity Professional** pursuing my A.A.S. Degree in Cy
 
 ## 🐍 Python Projects
 
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="300"/>
+![212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5](https://github.com/user-attachments/assets/52792c67-58ac-4abf-80f8-30c25ff30864)
 
 - 🔐 **Password Checker**
     [View Project](https://github.com/cassandraonal/Python2025/tree/main/password_checker)
@@ -65,10 +65,8 @@ I’m an aspiring **Cybersecurity Professional** pursuing my A.A.S. Degree in Cy
   Developed robust input validation, file reading/writing/appending, pointers, references, array searching, and multidimensional grid visualization.
 
 ---
-
 ## 🛡️ Cybersecurity In Action
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZka2RtM3EyYXNld2ZkNHZ6bmNha2pvaHd3YTZxem94dG51djgxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tXL4FHPSnVJ0A/giphy.gif" width="300"/>
+![238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d](https://github.com/user-attachments/assets/1abe0369-0fa0-4465-84aa-dd9ab4aff8f0)
 ## 📜 Certificates
 
 ### 🛡️ Mastercard – Cybersecurity Job Simulation  
@@ -114,18 +112,20 @@ I’m an aspiring **Cybersecurity Professional** pursuing my A.A.S. Degree in Cy
 ---
 
 ## 🤝 Community Involvement
+![216655859-f66df97b-6767-4ab2-b6f4-a9cba3ff3591](https://github.com/user-attachments/assets/f7783171-faee-480e-88a0-111c10da890b)![216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f](https://github.com/user-attachments/assets/0a909f31-fbb4-49bb-ad80-2b2b74acaef5)
+
 
 **Flushing Tech Meetup @ Queens College**  
 - Simulated real-world pentesting using Nmap and VirtualBox.  
 - Learned from peers and expanded my professional network.
 
 ---
-
-## 📫 Contact Me
+![214644145-264f4759-7633-441e-9d67-d8dda9d50d26](https://github.com/user-attachments/assets/8e14a44d-551a-47d2-a881-628517b67d39)
+## 📫 Contact Me! 
 
 I’m always open to discussing projects, cybersecurity, or collaboration opportunities!  
 [Email Me](mailto:cassandrasbordoni5108@gmail.com) • [LinkedIn](https://linkedin.com/in/cassandra-sbordoni-01b184351/)
 
----
+---![226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af](https://github.com/user-attachments/assets/586837c2-9144-47fd-822d-072ec5234573)
+⭐️ _Thanks for visiting my GitHub profile!_![241763891-7bb1e704-6026-48f9-8435-2f4d40101348](https://github.com/user-attachments/assets/0774d965-8457-44b6-b506-cdf0622a4407)
 
-⭐️ _Thanks for visiting my GitHub profile!_
