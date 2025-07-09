@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Cassandra Sbordoni  
+# 👋 Hi, I'm Cassandra Onal 
 
 ![212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba](https://github.com/user-attachments/assets/06311b3f-2ac6-49b0-af96-fb9e67918868)
 
