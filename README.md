@@ -81,6 +81,8 @@ I’m an aspiring **Cybersecurity Professional** pursuing my A.A.S. Degree in Cy
   - Incident response  
   - Security protocols
 
+### Member of the Phi Theta Kappa Honor Society 
+
 ---
 ## 💼 Leadership & Extracurriculars
 ![221352975-94759904-aa4c-4032-a8ab-b546efb9c478](https://github.com/user-attachments/assets/9f29bf47-47c1-459e-8712-8d3729abc9b0)
@@ -88,7 +90,7 @@ I’m an aspiring **Cybersecurity Professional** pursuing my A.A.S. Degree in Cy
 *June 2025*  
 - Conducted penetration testing simulation using **Nmap** and **VirtualBox** to exploit open ports  
 - Collaborated and learned from peers while expanding my professional network
-- Member of the Phi Theta Kappa Honor Society
+  
 
 ## 💼 Work Experience
 
