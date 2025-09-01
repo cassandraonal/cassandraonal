@@ -87,7 +87,8 @@ I’m an aspiring **Cybersecurity Professional** pursuing my A.A.S. Degree in Cy
 ### Flushing Tech Meetup at Queens College  
 *June 2025*  
 - Conducted penetration testing simulation using **Nmap** and **VirtualBox** to exploit open ports  
-- Collaborated and learned from peers while expanding my professional network  
+- Collaborated and learned from peers while expanding my professional network
+- Member of the Phi Theta Kappa Honor Society
 
 ## 💼 Work Experience
 
